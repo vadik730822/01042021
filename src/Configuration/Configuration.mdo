@@ -30,7 +30,7 @@
   <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
   <modalityUseMode>DontUse</modalityUseMode>
   <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
-  <compatibilityMode>8.3.19</compatibilityMode>
+  <compatibilityMode>8.3.17</compatibilityMode>
   <languages uuid="706bb4b2-4466-4352-8a3d-a03ffdcfd250">
     <name>Русский</name>
     <synonym>
